@@ -1,4 +1,4 @@
-package com.maybank.question5.helloworld;
+package com.question5.helloworld;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

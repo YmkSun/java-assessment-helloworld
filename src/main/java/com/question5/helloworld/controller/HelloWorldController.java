@@ -21,6 +21,7 @@ public class HelloWorldController {
 		HelloWorldDTO dto = service.getMessage();
 		
 		model.addAttribute("message", dto.getMessage());
+		
 		return "hello";
 	}
 	

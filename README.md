@@ -1,12 +1,7 @@
-Hello World project for Spring Boot (Question 5)
+Hello World Web Application
 
-Question 5) Design a project to display hello world.
+Please build and deploy the war file.
+And go to the URL
 
-a) Use any view page like jsp, html etc.
-
-b) Use web framework as controller
-
-c) Use MYSQL db to storing values
-
-d) Can we build web project without web.xml?
+`http://localhost:8080/hello`
 
